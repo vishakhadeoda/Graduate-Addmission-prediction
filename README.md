@@ -5,3 +5,5 @@ To apply for a master's degree is a very expensive and intensive work. With this
 Linear Regression,
 Decision Tree,
 Random Forest
+### Video Reference:
+https://youtu.be/wTL8UnbInsw
